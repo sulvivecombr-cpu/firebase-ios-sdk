@@ -166,3 +166,7 @@ vertexai-sdk-test-data
 
 
 /.agents/MEMORY.md
+
+# Browser adaptation of FirestoreSample
+/Example/FirestoreWeb/node_modules/
+/Example/FirestoreWeb/dist/
